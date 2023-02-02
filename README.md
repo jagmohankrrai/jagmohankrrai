@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jagmohankrrai
-- 👀 I’m interested in ... web devlopment, game devlopement graphic design 
-- 🌱 I’m currently learning ...web devlopment (javascript)
+- 👀 I’m interested in ... App devlopment, game devlopement graphic design 
+- 🌱 I’m currently learning ...App devlopment (java)
 - 📫 How to reach me ...jagmohankrrai@gmail.com
 
 <!---
