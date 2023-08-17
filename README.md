@@ -1,4 +1,4 @@
-<h2 align="left">🌱 Android Devloper at Enitity Digital Sports<br>❤️ Working on Flutter/Android Studio<br>❄️ B.Tech in Computer Science Engineering from GECJ<br>🚀 Freelancer<br>📫 How to reach me ...jagmohankrrai@gmail.com</h2>
+<p align="left">🌱 Android Devloper at Enitity Digital Sports<br>❤️ Working on Flutter/Android Studio<br>❄️ B.Tech in Computer Science Engineering from GECJ<br>🚀 Freelancer<br>📫 How to reach me ...jagmohankrrai@gmail.com</p>
 
 ###
 
